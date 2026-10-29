@@ -36161,6 +36161,7 @@
     "description": "Governance for Obsidian: a document status lifecycle (draft to published), owner and review tracking, a governance dashboard, and an in-vault audit log. 100% local - no account, no network. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jsdosanj/ledger"
   },
+	{"id": "ledger-view", "name": "Ledger Viewer", "author": "qnosuke", "description": "Open and edit Ledger CLI files (.ledger) with VSCode-style syntax highlighting.", "repo": "qnosuke/ledger-view"},
   {
     "id": "attachments-library",
     "name": "Attachments Library",
