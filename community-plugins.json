@@ -68654,5 +68654,12 @@
     "author": "Luke Jacobsen",
     "description": "Visualize your vault as a glowing 3D brain of notes and paragraphs, with galaxy, calendar, clock, stream and other views of what you wrote and when. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lukejacobsen7/brainiac"
+  },
+  {
+    "id": "ledger-view",
+    "name": "Ledger Viewer",
+    "author": "qnosuke",
+    "description": "Open and edit Ledger CLI files (.ledger) with VSCode-style syntax highlighting.",
+    "repo": "qnosuke/ledger-view"
   }
 ]
